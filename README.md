@@ -10,22 +10,34 @@ A pen or pencil is inserted through the Palm Pen Holder pen hole and is fixed in
 All documentation, design files, and photos can be found on the GitHub page that is linked at the top of this project page. The Maker Checklist document will aid you in following the correct steps to build and work with the requestor.
 
 # SKILLS REQUIRED
+
 3D Printing
 
 # BILL OF MATERIALS
 
 To assemble the Palm Pen Holder, you will need:
+
 1x 3D Printed Palm Pen Holder
+
 1x M4 machine screws, 20 mm long ($1.25 – $2.50) 
+
 1x M4 hex nuts ($0.25)  
+
 1x Writing utensil (pen, pencil, etc)
+
 # TOOLS
+
 Screwdriver
+
 3D printer
+
 # 3D PRINTING
+
 The design prints in ABS or PLA with no support. 3D print STL’s and instructions can be found on the GitHub page linked at the top of this project page.
+
 # CUSTOMIZATION
 The design is parametric, which means that the size of the device itself the size of the pen hole can be modified by changing numbers in OpenSCAD. The editable OpenSCAD file can be found on the GitHub page linked at the top of the project page along with instructions within the documentation.
+
 # Sizing:
 There are small, medium, and large-sized Palm Pen Holder available for different hand sizes. In addition, the pen hole diameter can also be changed from narrow, standard, and wide. By use of the set screw, the writing utensil does not need to be the exact size of the pen hole but rather the sizing is available to fit large writing devices like markers and narrow ones such as fine paintbrushes. Sizing Charts can be found below and in addition, downloading the to scale document will allow one to see the outline of the different sizes to determine the ideal size.
 
