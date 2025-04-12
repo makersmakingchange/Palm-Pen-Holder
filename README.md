@@ -33,5 +33,22 @@ The design is parametric, which means that the size of the device itself the siz
 There are small, medium, and large-sized Palm Pen Holder available for different hand sizes. In addition, the pen hole diameter can also be changed from narrow, standard, and wide. By use of the set screw, the writing utensil does not need to be the exact size of the pen hole but rather the sizing is available to fit large writing devices like markers and narrow ones such as fine paintbrushes. Sizing Charts can be found below and in addition, downloading the to scale document will allow one to see the outline of the different sizes to determine the ideal size.
 
 <!-- ABOUT MMC START -->
+## About Makers Making Change
+[<img src="https://raw.githubusercontent.com/makersmakingchange/makersmakingchange/main/img/mmc_logo.svg" width="500" alt="Makers Making Change Logo">](https://www.makersmakingchange.com/)
 
+Makers Making Change is a program of [Neil Squire](https://www.neilsquire.ca/), a Canadian non-profit that uses technology, knowledge, and passion to empower people with disabilities.
+
+Makers Making Change leverages the capacity of community based Makers, Disability Professionals and Volunteers to develop and deliver affordable Open Source Assistive Technologies.
+
+ - Website: [www.MakersMakingChange.com](https://www.makersmakingchange.com/)
+ - GitHub: [makersmakingchange](https://github.com/makersmakingchange)
+ - Bluesky: [@makersmakingchange.bsky.social](https://bsky.app/profile/makersmakingchange.bsky.social)
+ - Instagram: [@makersmakingchange](https://www.instagram.com/makersmakingchange)
+ - Facebook: [makersmakechange](https://www.facebook.com/makersmakechange)
+ - LinkedIn: [Neil Squire Society](https://www.linkedin.com/company/neil-squire-society/)
+ - Thingiverse: [makersmakingchange](https://www.thingiverse.com/makersmakingchange/about)
+ - Printables: [MakersMakingChange](https://www.printables.com/@MakersMakingChange)
+
+### Contact Us
+For technical questions, to get involved, or to share your experience we encourage you to [visit our website](https://www.makersmakingchange.com/) or [contact us](https://www.makersmakingchange.com/s/contact).
 <!-- ABOUT MMC END -->
